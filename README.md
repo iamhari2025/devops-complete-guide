@@ -52,7 +52,7 @@ Hypervisors power cloud platforms like AWS, Azure, and Google Cloud.
 **1. Type 1 Hypervisor (Bare-Metal Hypervisor)**
 
 
-<img width="643" height="573" alt="image" src="https://github.com/user-attachments/assets/83fccac4-e06b-4059-9be2-8d40249d0000" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_cyd4obcyd4obcyd4" src="https://github.com/user-attachments/assets/1d05da88-3ea9-4b47-9618-131506fb22f3" />
 
 Runs directly on the hardware with no operating system underneath.
 Used in data centers and enterprise environments.
@@ -66,7 +66,7 @@ Cons: Requires expert setup
 **Type 2 Hypervisor (Hosted Hypervisor)**
 
 
-<img width="636" height="582" alt="image" src="https://github.com/user-attachments/assets/d8a5ecf0-9d50-426a-99fc-987c59fd1485" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_nt3b09nt3b09nt3b" src="https://github.com/user-attachments/assets/cd4d6041-e444-44ae-adb7-38fb8d53bd24" />
 
 Runs on top of an operating system, like normal software.
 
